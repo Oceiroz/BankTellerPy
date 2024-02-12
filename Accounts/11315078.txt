@@ -1,0 +1,6 @@
+Lucas
+Wharton
+500.0
+1234
+False
+0
